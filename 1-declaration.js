@@ -85,3 +85,5 @@ console.log("2 x 4 = ", doSometing((a, b) => a * b, 2, 4));
 // function(a, b) {
 //   return a * b;
 // }
+
+console.log("I'm on branch dev2");
